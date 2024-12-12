@@ -88,7 +88,7 @@ export default function SignUpForm({ login }: PropTypes) {
       </div>
 
       <p className="text-neutrals-100 mb-4 mt-auto">
-        By selecting Agree and continue, I agree to RideFair’s
+        By selecting Agree and continue, I agree to Rovr’s
         <a href="#" className="text-blue-300">
           {" "}
           Terms of Service

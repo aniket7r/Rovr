@@ -27,7 +27,7 @@ export default function ProfileInfo() {
       <div className="flex gap-4 text-neutrals-50">
         <div className="bg-neutrals-800 basis-1/2 flex flex-col items-center gap-4 p-4 rounded-lg">
           <p className="text-2xl font-semibold">2,780</p>
-          <p>RideFair Points</p>
+          <p>Rovr Points</p>
         </div>
         <div className="bg-neutrals-800 basis-1/2 flex flex-col items-center gap-4 p-4 rounded-lg">
           <p className="text-2xl font-semibold">
