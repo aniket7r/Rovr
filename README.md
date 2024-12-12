@@ -1,11 +1,5 @@
-# 🚗 RideFair - Web5 Hackathon
+# 🚗 Rovr
 
-## 🚀 Submission
-
-This project was submitted to the Web5: Building the Decentralized Web Hackathon [here](https://devpost.com/software/ridefair).
-
-You can also try out the [live demo](https://ride-fair.vercel.app/) or run it locally.
-If there are any issues with the initial load, try clearing the browser history.
 
 1. clone the repository
 2. run `npm i`
@@ -30,21 +24,21 @@ Our response to this problem is the implementation of TBD5 (Web5) technologies, 
 ## 🚘 What it does
 
 **Overview:**
-RideFair is a decentralized ride-sharing progressive web app (PWA) that empowers users with control over their entire ride-sharing experience, from creating an account, to booking a ride, to selecting their preferred driver—all while maintaining the utmost privacy and security of their personal data.
+Rovr is a decentralized ride-sharing progressive web app (PWA) that empowers users with control over their entire ride-sharing experience, from creating an account, to booking a ride, to selecting their preferred driver—all while maintaining the utmost privacy and security of their personal data.
 
 **Unique Value Feature:**
-What sets RideFair apart is the unique ability for riders to freely share associated data with their selected drivers. We prioritize safety by allowing users to share location and personal data, such as name and profile accounts, only with the chosen driver.
+What sets Rovr apart is the unique ability for riders to freely share associated data with their selected drivers. We prioritize safety by allowing users to share location and personal data, such as name and profile accounts, only with the chosen driver.
 
 **Technological Foundation:**
 
-- Decentralized Identifiers (DIDs): RideFair employs the use of Decentralized Identifiers (DIDs) to ensure that user identifiers are not tied to a central authority during the sign-up process. This enhances user privacy and security.
+- Decentralized Identifiers (DIDs): Rovr employs the use of Decentralized Identifiers (DIDs) to ensure that user identifiers are not tied to a central authority during the sign-up process. This enhances user privacy and security.
 - Decentralized Web Nodes (DWN): User data is stored securely in decentralized web nodes (DWN), granting users ownership and control over their personal content. This ensures that personal data remains in the hands of its rightful owner.
 
 **MVP Goals**
 
 - **Create an Account:** A seamless onboarding and account creation process that prioritizes user privacy and data ownership.
 - **Book a Ride:** Users can easily book rides to their desired destinations, enjoying the flexibility and freedom our platform provides.
-- **Select a Driver:** The distinguishing feature of RideFair allows users to select their preferred driver from a list (based on proximity, ratings, and driving experience), emphasizing safety and user choice.
+- **Select a Driver:** The distinguishing feature of Rovr allows users to select their preferred driver from a list (based on proximity, ratings, and driving experience), emphasizing safety and user choice.
 - **Submit Driver Reviews:** Users can review and share their experiences with selected drivers, fostering transparency and accountability.
 
 ##⚙️ How we built it
@@ -60,13 +54,13 @@ What sets RideFair apart is the unique ability for riders to freely share associ
 
 ## 🎉 Accomplishments that we're proud of
 
-Given the one-month time constraint, we are proud of the fact that we were able to learn about cutting-edge, web 5 technologies to create this pwa app from scratch. We also take pride in our product, especially the fact that it addresses such an impactful problem space. In 2023 alone, 234 million people were victims of data compromises. With Ridefair, we are proud to promote user safety and privacy from the dangers that today’s ridesharing technologies pose.
+Given the one-month time constraint, we are proud of the fact that we were able to learn about cutting-edge, web 5 technologies to create this pwa app from scratch. We also take pride in our product, especially the fact that it addresses such an impactful problem space. In 2023 alone, 234 million people were victims of data compromises. With Rovr, we are proud to promote user safety and privacy from the dangers that today’s ridesharing technologies pose.
 
 ## 📖 What we learned
 
 We learned how to leverage TBD5 technology to help create our solution. In the process, we learned about the constraints of the technology, as well as the additional design and development challenges that are shaped by its unique demands. For example, in order to give users optimal privacy over data, our system needed to adjust to allow users to self-select their own drivers. This made it possible for users to withhold from sharing their data until much later in the process. Users would be able to self-select their drivers and keep their data private until they purchase their ride.
 
-## What's next for RideFair
+## What's next for Rovr
 
 - **Usability Testing:** We’d love to conduct some usability testing with riders and iterate our design and development process based on the results.
 - **New Features:** While designing the app, we thought of creating a rewards and token experience where users can receive rewards and get discounts on their rides on the app to incentivize users to use our app.
