@@ -6,7 +6,7 @@ import ContextProvider from "./lib/store";
 const inter = Inter({ subsets: ["latin"] });
 
 export const metadata: Metadata = {
-  title: "RideFair",
+  title: "Rovr",
   description: "Decentralized ride-sharing app.",
 };
 
